@@ -17,3 +17,6 @@ Both commands will run the server at `localhost:4567`.
 
 [basics of auth]: http://developer.github.com/guides/basics-of-authentication/
 [bundler]: http://gembundler.com/
+access_token
+.DS_Store
+.bundle
